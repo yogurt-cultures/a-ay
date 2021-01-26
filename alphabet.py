@@ -38,3 +38,4 @@ AlphaBetaGamma = {
 
 X = AlphaBetaGamma
 Y = 0
+Z = 'zz'
