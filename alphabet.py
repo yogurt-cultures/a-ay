@@ -1,5 +1,5 @@
 AlphaBetaGamma = {
-  'a': 'a',,
+  'a': 'a',
   'ą' : 'ą',
   'b' : 'b',
   'c' : 'c',
