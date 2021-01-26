@@ -16,8 +16,20 @@ AlphaBetaGamma = {
 
   
   'c' : 'c',
+
+  C
+  LATIN CAPITAL LETTER C
+  Unicode: U+0043, UTF-8: 43
+  
+  
   'ć' : 'ć',
   'd' : 'd',
+  
+  D
+  LATIN CAPITAL LETTER D
+  Unicode: U+0044, UTF-8: 44
+  
+  
   'e' : 'e',
   'ę' : 'ę',
   'f' : 'f',
