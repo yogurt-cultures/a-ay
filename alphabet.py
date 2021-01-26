@@ -26,6 +26,3 @@ u
 v
 y
 z
-
-# IN-PROGRESS
-# F
