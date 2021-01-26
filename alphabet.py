@@ -1,7 +1,20 @@
 AlphaBetaGamma = {
-  'a': ('a', U+0061), # lowercased letter a in latin
+  'a': 'a',
+
+  
+  A
+  LATIN CAPITAL LETTER A
+  Unicode: U+0041, UTF-8: 41
+  
+
   'ą' : 'ą',
   'b' : 'b',
+  
+  B
+  LATIN CAPITAL LETTER B
+  Unicode: U+0042, UTF-8: 42
+
+  
   'c' : 'c',
   'ć' : 'ć',
   'd' : 'd',
