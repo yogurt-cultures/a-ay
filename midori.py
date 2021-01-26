@@ -1,6 +1,0 @@
-blue = 'mavi'
-blue = '⻘'
-blue = '⻘'
-blue = '📘'
-color = 'cyan'
-color = 'turquoise'
